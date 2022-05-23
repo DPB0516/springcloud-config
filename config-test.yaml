@@ -1,2 +1,6 @@
 user:
   name: "张三 test"
+
+
+config:
+  info: "spring-cloud/config-test.yaml version=1"

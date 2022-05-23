@@ -1,2 +1,5 @@
 user:
   name: "张三 prod"
+
+config:
+  info: "spring-cloud/config-prod.yaml version=1"
