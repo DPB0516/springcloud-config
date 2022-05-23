@@ -1,0 +1,9 @@
+/.idea
+/logs
+/target
+/base-org.iml
+*.iml
+*.classpath
+*.project
+.gitconfig
+.settings/
