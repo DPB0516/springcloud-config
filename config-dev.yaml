@@ -2,4 +2,4 @@ user:
   name: "张三 dev"
 
 config:
-  info: "spring-cloud/config-dev.yaml version=6"
+  info: "spring-cloud/config-dev.yaml version=7"
